@@ -100,9 +100,9 @@ global.autorep = []
 global.ntilink = []
 
 //omther
-global.sessionName = 'session'
+global.sessionName = 'noiseKey":{"private":{"type":"Buffer","data":"MGtqRI6J3iDhaMDwEtVPw2GzTg40fl9o8SHf6F5SAHw="},"public":{"type":"Buffer","data":"vMnkvQdxB0a1HT'
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = [''!']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
